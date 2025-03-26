@@ -1,4 +1,4 @@
-<font face = "agency fb" size="21">
+Daily Expense & Income Tracker (Excel)
 📌 Free-TDL-Code-Enable-Trigger-Keys-in-Tally-Prime
 
 🚀 Enhance your Tally Prime experience with custom Trigger Keys!
