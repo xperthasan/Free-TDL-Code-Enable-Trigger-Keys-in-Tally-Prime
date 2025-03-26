@@ -1,0 +1,26 @@
+[#Menu : Gateway of Tally]
+
+Add : Button :MTPLTGR
+
+[Button :MTPLTGR]
+Title : BALANCE SHEET
+key : Alt + B
+Action : Trigger Key : B
+
+[#Menu : Gateway of Tally]
+
+Add : Button :MTPLTGR1
+
+[Button :MTPLTGR1]
+Title : Sales Register
+key : Alt + S
+Action : Trigger Key : DAS
+
+[#Menu : Gateway of Tally]
+
+Add : Button :MTPLTGR2
+
+[Button :MTPLTGR2]
+Title : PURCHASE REGISTER
+key : Alt + P
+Action : Trigger Key : DAP
