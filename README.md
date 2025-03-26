@@ -31,6 +31,7 @@ This free TDL script enables Trigger Keys in Tally Prime, allowing you to assign
 🎯 How It Works?
 Once the script is loaded, you can use predefined shortcut keys to instantly open specific 
 reports or functions in Tally Prime, reducing manual effort and increasing speed.
+
 https://www.youtube.com/watch?v=XoKTmasRZT4
 
 📩 Download & Customize
